@@ -50,7 +50,7 @@ This repository is designed for **beginners to advanced learners**, including st
 ---
 
 ## 📂 Folder Structure
-
+---
 📦 Python-Notes-and-Codes
 │
 ├── .ipynb_checkpoints/
@@ -72,6 +72,6 @@ This repository is designed for **beginners to advanced learners**, including st
 └── README.md
 
 
-BY: Shekhar Mandal
-Contact:
-email:shekharmandal146@gmail.com
+---
+**BY:** Shekhar Mandal
+**Contact:** shekharmandal146@gmail.com
